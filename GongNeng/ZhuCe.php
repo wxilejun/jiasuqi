@@ -71,7 +71,7 @@
     
     .right {
         height: 60px;
-        // background-color: #ff0000;
+        /* background-color: #ff0000; */
         width: 50%;
         position: absolute;
         right: 0;
@@ -92,7 +92,7 @@
     
     .left {
         height: 60px;
-        // background-color: #000000;
+        /* background-color: #000000; */
         width: 50%;
         padding: 0 0 0 5%;
     }
